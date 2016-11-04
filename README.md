@@ -14,15 +14,15 @@
   <img src="https://raw.githubusercontent.com/jovanidash21/good-reading/master/good-reading/img/screenshots/4.png">
 </p>
 
-## Website
-- [lipton](http://goodreading.cpecareer.com/)
-
 ## Installation
 1. Clone or download this repository and place this on your server.
 2. Create a MySQL database on your server.
 3. Import the zip file goodreading.sql to the created MySQL database.
 4. Change the details (hostname, username, password, databasename) of the database in db_connect.php.
 5. Open the directory on your server.
+
+## Website
+- [good reading](http://goodreading.cpecareer.com/)
 
 ## Links
 - [Wordpress](https://jovaniwarguez.wordpress.com/)
