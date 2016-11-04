@@ -1,0 +1,68 @@
+/*
+          JJJJJJJJJJJ     OOOOOOOOO     VVVVVVVV           VVVVVVVV   AAA               NNNNNNNN        NNNNNNNNIIIIIIIIII
+          J:::::::::J   OO:::::::::OO   V::::::V           V::::::V  A:::A              N:::::::N       N::::::NI::::::::I
+          J:::::::::J OO:::::::::::::OO V::::::V           V::::::V A:::::A             N::::::::N      N::::::NI::::::::I
+          JJ:::::::JJO:::::::OOO:::::::OV::::::V           V::::::VA:::::::A            N:::::::::N     N::::::NII::::::II
+            J:::::J  O::::::O   O::::::O V:::::V           V:::::VA:::::::::A           N::::::::::N    N::::::N  I::::I  
+            J:::::J  O:::::O     O:::::O  V:::::V         V:::::VA:::::A:::::A          N:::::::::::N   N::::::N  I::::I  
+            J:::::J  O:::::O     O:::::O   V:::::V       V:::::VA:::::A A:::::A         N:::::::N::::N  N::::::N  I::::I  
+            J:::::j  O:::::O     O:::::O    V:::::V     V:::::VA:::::A   A:::::A        N::::::N N::::N N::::::N  I::::I  
+            J:::::J  O:::::O     O:::::O     V:::::V   V:::::VA:::::A     A:::::A       N::::::N  N::::N:::::::N  I::::I  
+JJJJJJJ     J:::::J  O:::::O     O:::::O      V:::::V V:::::VA:::::AAAAAAAAA:::::A      N::::::N   N:::::::::::N  I::::I  
+J:::::J     J:::::J  O:::::O     O:::::O       V:::::V:::::VA:::::::::::::::::::::A     N::::::N    N::::::::::N  I::::I  
+J::::::J   J::::::J  O::::::O   O::::::O        V:::::::::VA:::::AAAAAAAAAAAAA:::::A    N::::::N     N:::::::::N  I::::I  
+J:::::::JJJ:::::::J  O:::::::OOO:::::::O         V:::::::VA:::::A             A:::::A   N::::::N      N::::::::NII::::::II
+ JJ:::::::::::::JJ    OO:::::::::::::OO           V:::::VA:::::A               A:::::A  N::::::N       N:::::::NI::::::::I
+   JJ:::::::::JJ        OO:::::::::OO              V:::VA:::::A                 A:::::A N::::::N        N::::::NI::::::::I
+     JJJJJJJJJ            OOOOOOOOO                 VVVAAAAAAA                   AAAAAAANNNNNNNN         NNNNNNNIIIIIIIIII
+
+*/
+
+.navbar .dropdown.profile .dropdown-menu 
+{
+    width: 250px;
+}
+.navbar .dropdown.profile .dropdown-menu li.profile-img
+{
+	max-height: 250px;
+}
+.card .card-header
+{
+	background-color: #1b6f5e;
+}
+.card .card-header .card-title .title
+{
+	color: #ffffff;
+}
+.datatable thead tr,
+.datatable tfoot tr
+{
+	background-color: #2c3e50;
+}
+.datatable thead tr th,
+.datatable tfoot tr th
+{
+	color: #ffffff;
+}
+div#home-header img,
+div#case-study-img img
+{
+  margin: auto;
+  padding: 10px;
+}
+p#case-study-src
+{
+	margin: 20px;
+	font-size: 15px;
+}
+.flat-green .table.table-striped > tbody > tr:nth-of-type(odd)
+{
+  background-color: #d5d5d5;
+}
+@media only screen and (max-width: 768px)
+{
+	.navbar-header ol.navbar-breadcrumb li
+	{
+		font-size: 14px;
+	}
+}
