@@ -173,9 +173,9 @@
                                                 publisher. Publisher Name is the unique identifier of the PUBLISHER entity. A
                                                 publisher may have (and generally has) published many books that Good Reading
                                                 carries; however, Good Reading also wants to be able to keep track of some
-                                                publishers that currently have no books in Good Reading’s inventory (note the
+                                                publishers that currently have no books in Good Reading's inventory (note the
                                                 zero-modality symbol from PUBLISHER towards BOOK). A book must have at
-                                                least one author but can have many (where in this case ‘‘many’’ means a few,
+                                                least one author but can have many (where in this case "many" means a few,
                                                 generally two or three at most). For a person to be of interest to Good Reading
                                                 as an author, she must have written at least one and possibly many books that
                                                 Good Reading carries. Note that there is a many-to-many relationship between the 
