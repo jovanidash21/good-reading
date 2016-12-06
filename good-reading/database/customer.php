@@ -14,7 +14,6 @@
     <link rel="stylesheet" type="text/css" href="../lib/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="../lib/css/animate.min.css">
     <link rel="stylesheet" type="text/css" href="../lib/css/bootstrap-switch.min.css">
-    <link rel="stylesheet" type="text/css" href="../lib/css/checkbox3.min.css">
     <link rel="stylesheet" type="text/css" href="../lib/css/jquery.dataTables.min.css">
     <link rel="stylesheet" type="text/css" href="../lib/css/dataTables.bootstrap.css">
     <link rel="stylesheet" type="text/css" href="../lib/css/select2.min.css">
@@ -237,15 +236,11 @@
         <!-- Javascript Libs -->
         <script type="text/javascript" src="../lib/js/jquery.min.js"></script>
         <script type="text/javascript" src="../lib/js/bootstrap.min.js"></script>
-        <script type="text/javascript" src="../lib/js/Chart.min.js"></script>
         <script type="text/javascript" src="../lib/js/bootstrap-switch.min.js"></script>
         <script type="text/javascript" src="../lib/js/jquery.matchHeight-min.js"></script>
         <script type="text/javascript" src="../lib/js/jquery.dataTables.min.js"></script>
         <script type="text/javascript" src="../lib/js/dataTables.bootstrap.min.js"></script>
         <script type="text/javascript" src="../lib/js/select2.full.min.js"></script>
-        <script type="text/javascript" src="../lib/js/ace/ace.js"></script>
-        <script type="text/javascript" src="../lib/js/ace/mode-html.js"></script>
-        <script type="text/javascript" src="../lib/js/ace/theme-github.js"></script>
         <!-- Javascript -->
         <script type="text/javascript" src="../js/app.js"></script>
         <script type="text/javascript" src="../js/index.js"></script>
