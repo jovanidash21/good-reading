@@ -2,16 +2,7 @@
 ---
 ## Screenshots
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jovanidash21/good-reading/master/good-reading/img/screenshots/1.png">
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jovanidash21/good-reading/master/good-reading/img/screenshots/2.png">
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jovanidash21/good-reading/master/good-reading/img/screenshots/3.png">
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jovanidash21/good-reading/master/good-reading/img/screenshots/4.png">
+  <img src="https://raw.githubusercontent.com/jovanidash21/good-reading/master/screenshot.png">
 </p>
 
 ## Installation
