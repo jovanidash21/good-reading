@@ -1,6 +1,6 @@
 # Good Reading
 ---
-## Screenshots
+## Screenshot
 <p align="center">
   <img src="https://raw.githubusercontent.com/jovanidash21/good-reading/master/screenshot.png">
 </p>
