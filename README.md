@@ -6,14 +6,14 @@
 </p>
 
 ## Installation
-1. Clone or download this repository and place this on your server.
-2. Create a MySQL database on your server.
-3. Import the zip file goodreading.sql to the created MySQL database.
-4. Change the details (hostname, username, password, databasename) of the database in db_connect.php.
-5. Open the directory on your server.
+* Clone or download this repository and place this on your server.
+* Create a MySQL database on your server.
+* Import the zip file goodreading.sql to the created MySQL database.
+* Change the details (hostname, username, password, databasename) of the database in db_connect.php.
+* Open the directory on your server.
 
-## Website
-- [good reading](http://goodreading.cpecareer.com/)
+## Credit
+* [Bootstrap Theme](https://github.com/tui2tone/flat-admin-bootstrap-templates/releases/tag/v2.1.2)
 
 ## Links
 - [Wordpress](https://jovaniwarguez.wordpress.com/)
