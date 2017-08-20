@@ -7,7 +7,7 @@
 git clone https://github.com/jovanidash21/good-reading.git
 ```
 * Create a MySQL database on your server.
-* Import the zip file goodreading.sql to the created MySQL database.
+* Import to th database the file inside the sql folder of this project.
 * Change the details (hostname, username, password, databasename) of the database in db_connect.php.
 * Open the directory on your server.
 
