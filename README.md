@@ -13,3 +13,6 @@ git clone https://github.com/jovanidash21/good-reading.git
 
 ## Credit
 * [Bootstrap Theme](https://github.com/tui2tone/flat-admin-bootstrap-templates/releases/tag/v2.1.2)
+
+## License
+Licensed under [MIT](https://opensource.org/licenses/mit-license.php).
